@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MOV-101",
+    "title": "The Last Horizon",
+    "description": "A group of astronauts discovers a wormhole near Saturn and must risk everything to save humanity from a dying Earth.",
+    "durationMinutes": 169,
+    "isActive": true,
+    "releaseDate": "2024-11-05",
+    "posterUrl": "https://example.com/images/movies/last-horizon.jpg",
+    "genre": "Sci-Fi",
+    "cast": ["Jessica Chastain", "Matthew McConaughey", "Anne Hathaway"],
+    "rating": "PG-13",
+    "productionStudio": {
+      "id": "STUDIO-55",
+      "name": "Nebula Pictures",
+      "ceo": "Christopher Nolan",
+      "logoUrl": "https://example.com/images/studios/nebula-logo.jpg",
+      "foundedYear": 1998,
+      "headquarters": "London, United Kingdom"
+    }
+  },
+  {
+    "id": "MOV-102",
+    "title": "Whispers in the Dark",
+    "description": "A psychological thriller about a detective who realizes the killer he is chasing might be a figment of his own imagination.",
+    "durationMinutes": 124,
+    "isActive": false,
+    "releaseDate": "2022-02-14",
+    "posterUrl": "https://example.com/images/movies/whispers-dark.jpg",
+    "genre": "Thriller",
+    "cast": ["Jake Gyllenhaal", "Viola Davis"],
+    "rating": "R",
+    "productionStudio": {
+      "id": "STUDIO-88",
+      "name": "Crimson Horizon Films",
+      "ceo": "Sofia Coppola",
+      "logoUrl": "https://example.com/images/studios/crimson-horizon.jpg",
+      "foundedYear": 2005,
+      "headquarters": "New York, USA"
+    }
+  }
+]

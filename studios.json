@@ -1,0 +1,18 @@
+[
+  {
+    "id": "STUDIO-55",
+    "name": "Nebula Pictures",
+    "ceo": "Christopher Nolan",
+    "logoUrl": "https://example.com/images/studios/nebula-logo.jpg",
+    "foundedYear": 1998,
+    "headquarters": "London, United Kingdom"
+  },
+  {
+    "id": "STUDIO-88",
+    "name": "Crimson Horizon Films",
+    "ceo": "Sofia Coppola",
+    "logoUrl": "https://example.com/images/studios/crimson-horizon.jpg",
+    "foundedYear": 2005,
+    "headquarters": "New York, USA"
+  }
+]
